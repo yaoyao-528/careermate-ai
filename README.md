@@ -3,6 +3,7 @@
 ## React 哲学
 
 1. 拆解组件层级结构
-
+```
 npm install
 npm run dev
+```
